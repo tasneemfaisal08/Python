@@ -7,4 +7,4 @@ The explanations and examples in this repository are mainly based on:
 
 - **Codezilla Python Tutorial([https://www.youtube.com/python/playlist.asp](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ&si=MNfmPszLZHWmeolY))**
 
-- **El Zero Python Tutorial([[https://www.w3schools.com/python/numpy_intro.asp](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ&si=MNfmPszLZHWmeolY](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=kyUuWTFR3QObGucV)))**
+- **El Zero Python Tutorial([[https://www.youtube.com/python/playlist.asp](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=kyUuWTFR3QObGucV))**
