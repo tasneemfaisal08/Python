@@ -47,27 +47,27 @@ Python is widely used in:
 
 # Some of the Things Python Provides:
 
-1️⃣ Simple and Readable Syntax
+1️⃣ Simple and Readable Syntax : 
 Python code is clean and easy to understand, making it beginner-friendly.
 
-2️⃣ Large Standard Library
+2️⃣ Large Standard Library : 
 Python includes many built-in modules and functions for different tasks.
 
 3️⃣ Extensive Ecosystem of Libraries
 For example:
 
-NumPy for numerical computing
+- NumPy for numerical computing
 
-Pandas for data analysis
+- Pandas for data analysis
 
-TensorFlow for deep learning
+- TensorFlow for deep learning
 
-Flask for web development
+- Flask for web development
 
-4️⃣ Cross-Platform Compatibility
+4️⃣ Cross-Platform Compatibility : 
 Python runs on Windows, macOS, and Linux.
 
-5️⃣ Automatic Memory Management
+5️⃣ Automatic Memory Management : 
 Python manages memory allocation automatically.
 
 # Why is Python Popular?
